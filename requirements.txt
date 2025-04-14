@@ -1,0 +1,15 @@
+# Requirements for Vision Transformer Implementation
+# Note: All these packages are pre-installed on Google Colab
+
+torch>=1.8.0
+torchvision>=0.9.0
+numpy>=1.19.5
+matplotlib>=3.4.0
+pandas>=1.2.4
+scikit-learn>=0.24.1
+tqdm>=4.60.0
+seaborn>=0.11.1
+
+# Hardware requirements:
+# Google Colab T4 GPU runtime recommended
+# No additional installations needed when running on Colab
